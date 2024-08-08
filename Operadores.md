@@ -43,5 +43,6 @@
 | Operador | Nome    | Exemplo              | Descrição                                              |
 |----------|---------|----------------------|--------------------------------------------------------|
 | `&&`     | E (AND) | `x < 5 && x < 10`    | Retorna 1 se ambas as condições forem verdadeiras      |
-| `||`     | OU (OR) | `x < 5 || x < 4`     | Retorna 1 se uma das condições for verdadeira          |
 | `!`      | NÃO (NOT) | `!(x < 5 && x < 10)` | Inverte o resultado; retorna 0 se o resultado for 1    |
+
+ ||      OU (OR)  `x < 5 || x < 4`     | Retorna 1 se uma das condições for verdadeira          |
